@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio{
+public class Ejercicio5{
 		public static void main (String[] args){
 			
 		final Scanner SC = new Scanner(System.in);
@@ -14,6 +14,7 @@ public class Ejercicio{
 		else {
 			System.out.println("El numero es Impar"); 
 		}
+		System.out.println("HOLA SOY NICO");
 		
 		SC.close();
 	}
