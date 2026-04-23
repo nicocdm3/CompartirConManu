@@ -24,6 +24,11 @@ public class Ejercicio5{
 				seguir = false;
 			}
 		}
+
+		for (int i = 0; i < 10; i++) {
+			System.out.println(i);
+		}
+		
 		SC.close();
 	}
 }
