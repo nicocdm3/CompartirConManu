@@ -15,7 +15,15 @@ public class Ejercicio5{
 			System.out.println("El numero es Impar"); 
 		}
 		System.out.println("HOLA SOY NICO Y SOY ALUMNO DE ED");
-		
+		System.out.println("ESTOY HACIENDO RAMA Y VOY A HACER UN BUCLE WHILE");
+		boolean seguir = true;
+		while (seguir){
+			System.out.println("MENU");
+			int opcion = SC.nextInt();
+			if (opcion == 1){
+				seguir = false;
+			}
+		}
 		SC.close();
 	}
 }
