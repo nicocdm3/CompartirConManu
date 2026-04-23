@@ -14,7 +14,7 @@ public class Ejercicio5{
 		else {
 			System.out.println("El numero es Impar"); 
 		}
-		System.out.println("HOLA SOY NICO");
+		System.out.println("HOLA SOY NICO Y SOY ALUMNO DE ED");
 		
 		SC.close();
 	}
